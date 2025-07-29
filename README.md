@@ -1,77 +1,74 @@
-# EX.No.2.1  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
-## Date:
+RAGUL K R
+📞 9940072700 | 📧 krragulramrsh@gmail.com
+🌐 LinkedIn
+🏠 13, Anna Street, Sirkali, Mayiladuthurai District, Tamil Nadu – 609110
 
-## AIM
-To create a 3Dmodel from the given isometric drawing using fusion 360 tool. 
 
-## REQUIREMENTS
-1. Autodesk fusion 360
-2. Windows 10
-3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
-4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
+---
 
-## PROCEDURE
+🎯 Career Objective
 
- ### STEP-1:  Start the sketch command
+Aspiring Artificial Intelligence and Machine Learning professional with a strong foundation in emerging technologies, problem-solving, and innovation. Eager to apply technical skills and contribute meaningfully to impactful AI/ML projects while continuously learning and growing in the tech industry.
 
-   Select Sketch > Create Sketch.
 
- ### STEP-2:  Select the Sketch Plane
+---
 
-   Select the Front (XZ) Plane
+🎓 Education
 
-### STEP-3: Create a Rectangle 
+B.Tech in Artificial Intelligence and Machine Learning (AIML)
+Saveetha Engineering College, Chennai
+Expected Graduation: 2028
 
-   1.	Select Sketch > Rectangle > Center Rectangle.
-   2.	Now hover over the origin (center) of the sketch. You should see the cursor snap to this location.
-   3.	Click once to begin placing the rectangle.
-   4.	Type the Tab button and enter the values 100 mm and 60mm for the width and height respectively.
-   5.	Click again to place the rectangle.
-   6.	Click Finish Sketch after completing.
 
- ### STEP-4: Extrude Rectangle in XZ Plane
-   1.	Select Extrude.
-   2.	Select the Rectangle sketch.
-   3.	Click again to place the value.
-   4.	Type in the value of 30mm. 
-   5.	Press ENTER to accept the value.
+---
 
- ### STEP-5:  Start the sketch command
-   Select Sketch > Create Sketch.
- ### STEP-6: Select the Sketch Plane
-   Select the FRON SURFACE of rectangular block 
- ### STEP-7: Create a CIRCLE 
-   1.	Select Sketch >CIRCLE  > CENTER CIRCLE.
-   2.	Now hover over the origin (center) of the sketch. You should see the cursor snap to this location.
-   3.	Click once to begin placing the CIRCLE.
-   4.	Type the Tab button and enter the value DIA 100mm .
-   5.	Click again to place the circle.
-   6.	Click Finish Sketch after completing.
+🛠 Skills
 
- ### STEP-8:  Extrude CIRCLE 
-   1.	Select Extrude.
-   2.	Select the Rectangle sketch.
-   3.	Click again to place the value.
-   4.	Type in the value of 20mm. 
-   5.	Press ENTER to accept the value.
+Python Programming
 
- ### STEP-9: Start the sketch command
-   Select Sketch > Create Sketch.
-   
- ### STEP-10: Select the Sketch Plane
-   Select the TOP SURFACE OF RECTANGLE.
-   
- ### STEP-11: Create a line
-	1.Select Line command.
-	2. Draw the projections in the diagram 
-	3. Click Finish Sketch.
-	4. extrude the sketch.
+Machine Learning Basics
 
-## INPUT
-![image](https://user-images.githubusercontent.com/113594316/198495472-9a69edb1-f0c6-470c-b9ae-fe282fa6a678.png)
+Data Structures & Algorithms
 
-## OUTPUT
-![image](https://github.com/user-attachments/assets/e694107e-a2ca-496f-9113-a2e359decdf2)
+SQL
 
-## RESULT: 
- Thus, the 3D model is created from given isometric drawing.
+HTML/CSS
+
+Communication & Teamwork
+
+Critical Thinking
+
+Problem Solving
+
+
+
+---
+
+💡 Projects (Add details later as you complete them)
+
+(Sample placeholders you can replace when ready)
+
+AI Chatbot for College Queries
+
+Developed a basic AI chatbot using Python and NLP libraries to answer student queries.
+
+Integrated with Telegram for easy access.
+
+
+House Price Prediction using Machine Learning
+
+Implemented linear regression model using Scikit-learn.
+
+Trained on historical housing data to predict property prices.
+
+
+
+---
+
+📜 Certifications & Achievements (Optional section for future use)
+
+Completed “Introduction to Python” – Coursera
+
+Participated in Saveetha Hackathon 2025
+
+Class Topper – Higher Secondary Board Exams
